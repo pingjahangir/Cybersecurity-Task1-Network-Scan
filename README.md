@@ -345,8 +345,6 @@ This task strengthened my fundamentals in:
 
 ---
 
-# 🏁 **End of Task**
-
 This repository showcases my hands-on cybersecurity skills and real-world analysis capabilities.
 
 ---
