@@ -1,0 +1,33 @@
+# Nmap 7.80 scan initiated Tue Nov 25 09:53:32 2025 as: nmap -sS -oN home_scan.txt 192.168.0.0/24
+Nmap scan report for _gateway (192.168.0.1)
+Host is up (0.0047s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+23/tcp   open  telnet
+53/tcp   open  domain
+80/tcp   open  http
+1900/tcp open  upnp
+MAC Address: xxxxxxxxxxx (Unknown)
+
+Nmap scan report for 192.168.0.6
+Host is up (0.00045s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: xxxxxxxxxxxxx (Unknown)
+
+Nmap scan report for 192.168.0.8
+Host is up (0.0052s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE
+2869/tcp open  icslap
+MAC Address: xxxxxxxxxxxxxx (Unknown)
+
+Nmap scan report for cyberlab (192.168.0.7)
+Host is up (0.0000030s latency).
+All 1000 scanned ports on cyberlab (192.168.0.7) are closed
+
+# Nmap done at Tue Nov 25 09:53:39 2025 -- 256 IP addresses (4 hosts up) scanned in 7.11 seconds
