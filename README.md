@@ -346,7 +346,3 @@ This task strengthened my fundamentals in:
 ---
 
 This repository showcases my hands-on cybersecurity skills and real-world analysis capabilities.
-
----
-**“Start Task 2”**
-
