@@ -1,4 +1,4 @@
-# **Cybersecurity Internship — Task 1**
+# **Cybersecurity Task 1**
 
 ### **Network Reconnaissance, Port Scanning, Packet Capture & Security Analysis**
 
